@@ -1,1 +1,2 @@
-creation du style de la page d 'accueille
+creation du style de la page d 'accueil
+style pour le panier
